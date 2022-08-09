@@ -1,8 +1,8 @@
 ### Hello World! I'm Jhonatan 👋
-Electrical Engineer with Major in Electronics and Telecommunications!
+I am a Machine Learning Engineer
 -------
 
-I am a Machine Learning Engineer, currently working for Traive Finance!
+Currently working for Traive Finance!
 Main duties: 
 
 • Deploy and maintenance of six Machine Learning models for production regarding agriculture and finance credit risk analysis, under the supervision of Dr. Sharath Cholleti.
