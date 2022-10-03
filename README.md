@@ -2,8 +2,9 @@
 I am a Machine Learning Engineer
 -------
 
-Currently working for Traive Finance!
-Main duties: 
+Currently working for Recognyte!
+
+Previous work at Traive Finance: 
 
 • Deploy and maintenance of six Machine Learning models for production regarding agriculture and finance credit risk analysis, under the supervision of Dr. Sharath Cholleti.
 
